@@ -1,2 +1,2 @@
 # TTS-Dubbing-Project
-Google Text To Speech API를 이용한 영상더빙 프로젝트
+Google Text To Speech API를 이용한 우리말 더빙 프로젝트
