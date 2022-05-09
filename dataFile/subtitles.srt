@@ -1,0 +1,29 @@
+1
+00:00:12,001 --> 00:00:13,800
+It's like they always say
+
+2
+00:00:13,810 --> 00:00:18,900
+If you want something done right,
+you have to do it without your brother!
+
+3
+00:00:19,033 --> 00:00:22,536
+We meet again... doorknob!
+
+4
+00:00:28,100 --> 00:00:31,100
+Hello! Welcome~ welcome
+
+5
+00:00:31,150 --> 00:00:32,500
+Please come in. Entrez vous~
+
+6
+00:00:33,173 --> 00:00:37,500
+You're here!
+oh yes~ I was expectiong you!
+
+7
+00:00:37,644 --> 00:00:38,100
+"end"
